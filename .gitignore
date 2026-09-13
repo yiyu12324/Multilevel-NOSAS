@@ -1,0 +1,19 @@
+# HPC private key — NEVER commit
+hpc_key
+hpc.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output / logs
+*.out
+*.err
+*.log
+
+# Preprocessing caches (large, regenerated at runtime)
+*.pkl
+
+# OS
+.DS_Store
